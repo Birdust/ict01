@@ -46,11 +46,25 @@
 ```
 
 
-#table 작성1
+# table 작성1
 | Stacks | Java | Spring Boot |
 | ------ | ---- | ----------- |
 | ict01  | 22   | 33          |
 | ict02  | 44   | 55          |
 
 
-#table 작성2
+# table 작성2
+
+
+
+# Git 용어 정의 
+
+## master(main)
+> local repository의 branch name 이다.
+
+## origin/master(main)
+> remote repository의 branch name 이다.
+
+## origin
+> remote repository 이다.
+
